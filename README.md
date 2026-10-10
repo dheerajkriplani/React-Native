@@ -6,6 +6,7 @@ A React Native app built with Expo.
 
 ```bash
 npm install
+npx create-expo-app@latest   
 npx expo start
 ```
 
