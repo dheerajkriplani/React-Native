@@ -12,6 +12,12 @@ export default function Index() {
       <Link style={styles.links} href={"/profile/12345"}>Profile Page</Link>
       <Link style={styles.links} href={"/product/090909"}>Product Page</Link>
       <Link style={styles.links} href={"/user/12345/profile/09876"}>Nested Page</Link>    
+      <Link style={styles.links} href={"/docs/router/user/profile/12345"}>Slug Page</Link>    
+      <Link style={styles.links} href={"/sign-in"}>Sign-In Page</Link>  
+      <Link style={styles.links} href={"/sign-up"}>Sign-Up Page</Link>    
+
+
+
 
     </View>
   );
